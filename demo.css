@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400);
+body {
+	max-width: 980px;
+	margin: 0 auto;
+	background: #fff;
+	color: black;
+	font: normal 12px 'Open Sans', sans-serif;
+	margin-top: 10%;
+}
+img {
+	max-width: 70%;
+	float: left;
+	margin-right: 50px;
+}
+.topic {
+	text-align: center;
+	font: bold 48px 'Open Sans', sans-serif;
+	background: -webkit-linear-gradient(#F8E0E0, #DF0101);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
